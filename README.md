@@ -19,7 +19,7 @@ Most models have the recall score of 0.99
 
 * Which model had the best geometric mean score?
 
-Apart from Undersampling and logistical regression, all models have a geometric mean score of 0.99.
+Apart from Undersampling and logistical regression, all models have a geometric mean score of 0.99
 
 ## Ensemble Learning
 
@@ -37,7 +37,7 @@ Random Forest Classifier provided an average recall score of 1.0
 Balanced Random Forest provided a balanced accuracy score of 76.0%
 
 * What are the top three features?
-* 
+
 These are the top three features in our dataset:
 
 1) 'total_rec_prncp' 2) 'total_rec_int' 3) 'total_pymnt_inv'
